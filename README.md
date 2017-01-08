@@ -1,5 +1,5 @@
 # 2017 Goals
-Repo for managing personal goals and their sub tasks
+_Repo for managing personal goals and their sub tasks_
 
 Scratch pad for goals (rest are in Projects and Issues / Milestones)
 
@@ -14,6 +14,8 @@ Scratch pad for goals (rest are in Projects and Issues / Milestones)
 * Try Joyable
 * Travel more
   * At least two personal flights
+  
+**Remember to ask: will I enjoy doing these as much as accomplishing the end result?**
 
 ## 2018 Possibilities
 * Read GEB
