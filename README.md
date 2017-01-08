@@ -15,7 +15,7 @@ Scratch pad for goals (rest are in Projects and Issues / Milestones)
 * Travel more
   * At least two personal flights
   
-**Remember to ask: will I enjoy doing these as much as accomplishing the end result?**
+**Remember to ask: will I enjoy doing these as much as accomplishing the end result? Do they start with seeking God's kingdom and rightousness/justice first?**
 
 ## 2018 Possibilities
 * Read GEB
