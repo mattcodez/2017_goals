@@ -7,6 +7,9 @@ Scratch pad for goals (rest are in Projects and Issues / Milestones)
 
 * Read regularly
   * Read 101 books (no actual plan for this, just a crazy number, but regular reading will help)
+  * Listening to audio books is great, but want at least 2-3 days per week (2 on weekend, one during week)
+  where an actual printed book is read.
+  * Re-read at least 1 book, possibly 2. Consider 1 secular and 1 spiritual.
 * Run at least 1 marathon, consider 2
 * Passive Income and Investments
   * Rental properties
