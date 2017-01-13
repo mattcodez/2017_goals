@@ -20,6 +20,7 @@ Scratch pad for goals (rest are in Projects and Issues / Milestones)
 ## BooksChange.us
 ### Notes
 * Focus on the change the book led to in the reviewer, rather than on the book itself.
+
 ### Ideas
 * "How to Write a Book I'll Read"
 * Lifehacker like titles, aggregate lists. (e.g. 5 books to read to get in shape)
