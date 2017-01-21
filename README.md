@@ -17,6 +17,7 @@ Scratch pad for goals (rest are in Projects and Issues / Milestones)
   * REITs (Fundrise)
   * Wealthfront
   * Crowd funded equity
+  * $100/mo passive income - 10x -> $1,000/mo - 100x -> $10,000/mo
 * Try Joyable
 * Travel more
   * At least two personal flights
